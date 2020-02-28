@@ -1,0 +1,24 @@
+h1 {
+    color:red;
+}
+p {
+    color: green;
+}
+#chosen {
+ border: 2px solid brown;
+}
+.foo {
+background: yellow;
+}
+* {
+    background-color: gray;
+}
+p::first-letter {
+    font-size: px;
+}
+p:hover {
+    background-color: blue;
+}
+div p {
+    font-weight: bolt;
+}
